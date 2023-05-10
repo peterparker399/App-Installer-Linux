@@ -1,4 +1,4 @@
-# Daily Essentials Software Installer
+# Daily Essentials Software Installer by KK
 
 This is a Bash script that automates the installation of important daily use software collection on Ubuntu-based systems. The script will download and install the following software:
 
